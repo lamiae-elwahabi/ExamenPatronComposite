@@ -1,0 +1,25 @@
+2017-06-08 01:28:39,610 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-06-08 01:31:31,575 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\pom.xml
+2017-06-08 01:31:38,321 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.foobarspam:PatronComposite:0.0.1-SNAPSHOT @ C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\pom.xml.
+2017-06-08 01:31:40,196 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatronComposite/src/main/java
+2017-06-08 01:31:40,227 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PatronComposite/src/test/java
+2017-06-08 01:31:42,140 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2017-06-08 01:31:46,435 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:31:46,436 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\main\resources
+2017-06-08 01:31:46,440 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:31:46,440 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\test\resources
+2017-06-08 01:33:16,936 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:33:16,937 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\main\resources
+2017-06-08 01:33:16,940 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:33:16,940 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\test\resources
+2017-06-08 01:33:34,384 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:33:34,384 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\main\resources
+2017-06-08 01:33:34,387 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:33:34,387 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\test\resources
+2017-06-08 01:33:35,481 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:33:35,481 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\main\resources
+2017-06-08 01:33:35,484 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:33:35,484 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\test\resources
+2017-06-08 01:33:52,265 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 01:33:52,265 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\Desktop\LamiaeELWahabi\ExamenPatronComposite\PatronComposite\src\main\resources
+2017-06-08 01:33:52,268 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
